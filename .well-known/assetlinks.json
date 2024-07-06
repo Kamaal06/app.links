@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.android.storiez",
+      "sha256_cert_fingerprints": [
+        "D5:AE:5B:1F:0A:8D:A8:65:5D:14:34:8D:27:75:E0:8D:E4:5D:02:9A:5D:F8:D3:50:F9:CC:59:9B:AE:AD:93:1E"
+      ]
+    }
+  }
